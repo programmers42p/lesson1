@@ -1,9 +1,9 @@
-.log
+*.log
 
-.idea
+.idea/
 
 node_modules/
 
-.xml
+*.xml
 
 
